@@ -1,0 +1,5 @@
+C:/STM_projects/hello_uart/CMakeFiles/hello_uart.dir
+C:/STM_projects/hello_uart/CMakeFiles/edit_cache.dir
+C:/STM_projects/hello_uart/CMakeFiles/rebuild_cache.dir
+C:/STM_projects/hello_uart/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/STM_projects/hello_uart/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
